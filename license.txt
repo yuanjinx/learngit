@@ -1,3 +1,2 @@
 license
 before add
-after add command
